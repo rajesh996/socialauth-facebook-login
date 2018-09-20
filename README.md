@@ -20,6 +20,8 @@ START THE SERVER
 3. If you can see the link and a login button, u did it correct.
 4. Click on the login button to see your name, email and id.
 
-//After making users Signin into the website using facebook login (facebook-php-sdk), a unique code will be attached to the //redirect uri.
+<!--
+After making users Signin into the website using facebook login (facebook-php-sdk), a unique code will be attached to the //redirect uri.
 
 //Using this code an access token will be generated.
+-->
