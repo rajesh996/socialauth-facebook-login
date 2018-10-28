@@ -2,6 +2,8 @@
 
 An example of integrating facebook login into a simple php website using Facebook PHP SDK
 
+This socialauth-facebook-login is a plugin developed to allow users to login into your website using Facebook's login option. users can directly clone this repository or download as a Zip file and can include in regular projects.
+
 1. First create a Facebook developers account if you don't have one by going to <a href="https://www.developers.facebook.com">Facebook developers</a>.
 2. After creating developer account, go to your apps section and create a new app b following the steps mentioned there.
 
